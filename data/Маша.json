@@ -1,0 +1,36 @@
+{
+  "name": "Маша",
+  "age": 8,
+  "grades": {
+    "2": {
+      "total_answers": 22,
+      "correct_answers": 21,
+      "wrong_answers": 1,
+      "grade": 4.5,
+      "sessions": [
+        {
+          "date": "2026-09-06 00:10:32",
+          "timestamp": 1788642632,
+          "total_answers": 10,
+          "correct_answers": 9,
+          "wrong_answers": 1,
+          "grade": 4,
+          "problems": [
+            "7 × 8 = "
+          ]
+        },
+        {
+          "date": "2026-09-06 00:10:32",
+          "timestamp": 1788642632,
+          "total_answers": 12,
+          "correct_answers": 12,
+          "wrong_answers": 0,
+          "grade": 5,
+          "problems": [
+            "6 × 9 = "
+          ]
+        }
+      ]
+    }
+  }
+}

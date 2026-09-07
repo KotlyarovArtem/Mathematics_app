@@ -1,0 +1,11 @@
+/__pycache__/
+/.gigaide/
+/.idea/
+/.venv/
+/build/
+/dist/
+/screenshots/
+MathApp.iml
+Mathematics.spec
+Дополнение к промпту
+Промпт 2 - исправления.txt
